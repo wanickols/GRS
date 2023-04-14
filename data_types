@@ -1,0 +1,1995 @@
+,0
+id,float64
+name,object
+released,object
+rating,float64
+playtime,float64
+Action,int64
+Adventure,int64
+Arcade,int64
+Board Games,int64
+Card,int64
+Casual,int64
+Educational,int64
+Family,int64
+Fighting,int64
+Indie,int64
+Massively Multiplayer,int64
+Platformer,int64
+Puzzle,int64
+RPG,int64
+Racing,int64
+Shooter,int64
+Simulation,int64
+Sports,int64
+Strategy,int64
+ NES,int64
+ first,int64
+007,int64
+1,int64
+16,int64
+1930s,int64
+1960s,int64
+1970s,int64
+1980s,int64
+1984,int64
+1990's,int64
+1990s,int64
+1st,int64
+2,int64
+2 players,int64
+2.5D,int64
+2017,int64
+2D,int64
+2D Fighter,int64
+2D Platformer,int64
+2d,int64
+3,int64
+30s,int64
+32,int64
+360 Video,int64
+3D,int64
+3D Fighter,int64
+3D Platformer,int64
+3D Vision,int64
+3d,int64
+3rd,int64
+4,int64
+4 Player Local,int64
+4 giocatori divano,int64
+47,int64
+4X,int64
+4k,int64
+6,int64
+6DOF,int64
+7dfps,int64
+8,int64
+90s,int64
+Abstract,int64
+Achievement di Steam,int64
+Acquisti dall'applicazione,int64
+Action.1,int64
+Action RPG,int64
+Action RTS,int64
+Action Roguelike,int64
+Addictive,int64
+Adventure.1,int64
+Agriculture,int64
+Aliens,int64
+Alternate History,int64
+Altgame,int64
+America,int64
+Animals,int64
+Animation & Modeling,int64
+Anime,int64
+App Purchases,int64
+Archery,int64
+Arena Shooter,int64
+Artificial Intelligence,int64
+Assassin,int64
+Asteroids,int64
+Asymmetric VR,int64
+Asynchronous Multiplayer,int64
+Atmospheric,int64
+Audio Production,int64
+Auto Battler,int64
+Automation,int64
+Automobile Sim,int64
+Base Building,int64
+Based,int64
+Based Combat,int64
+Based Movement,int64
+Based On A Novel,int64
+Based Procedural Generation,int64
+Based RPG,int64
+Based Strategy,int64
+Based Tactics,int64
+Basketball,int64
+Batman,int64
+Battle Royale,int64
+Battle.net,int64
+Beat 'em up,int64
+Beautiful,int64
+Benchmark,int64
+Bikes,int64
+Bit,int64
+Black and White,int64
+Blood,int64
+Board Game,int64
+Boss battle,int64
+Bowling,int64
+Building,int64
+Bullet Hell,int64
+Bullet Time,int64
+CRPG,int64
+Capitalism,int64
+Captions available,int64
+Card Battler,int64
+Card Game,int64
+Cartas Colecionáveis Steam,int64
+Cartes à échanger Steam,int64
+Cartoon,int64
+Cartoony,int64
+Character Action Game,int64
+Character Customization,int64
+Cheat enabled,int64
+Chess,int64
+Chicken,int64
+Choices Matter,int64
+Choose Your Own Adventure,int64
+Christmas,int64
+Cinematic,int64
+City Builder,int64
+Class,int64
+Classes,int64
+Classic,int64
+Clicker,int64
+Co,int64
+Cold War,int64
+Colony Sim,int64
+Colorful,int64
+Combat Racing,int64
+Comedy,int64
+Comic Book,int64
+Coming Of Age,int64
+Commentary available,int64
+Compat. contrôleurs complète,int64
+Compat. total con control,int64
+Compat. total con controlador,int64
+Compat. total con mando,int64
+Compatibilidade parcial com controle,int64
+Compatibilidade total com controle,int64
+Competitive,int64
+Compras em aplicativo,int64
+Conquistas Steam,int64
+Conspiracy,int64
+Controller,int64
+Conversation,int64
+Cooperativo online,int64
+Cozy,int64
+Crafting,int64
+Creature Collector,int64
+Crime,int64
+Cromos de Steam,int64
+Cross,int64
+Crowdfunded,int64
+Cult Classic,int64
+Cute,int64
+Cyberpunk,int64
+Cycling,int64
+DRM Free,int64
+Dark,int64
+Dark Comedy,int64
+Dark Fantasy,int64
+Dark Humor,int64
+Dating Sim,int64
+Deck Building,int64
+Delvist stöd för kontroll,int64
+Demons,int64
+Design & Illustration,int64
+Destruction,int64
+Detective,int64
+Difficult,int64
+Dinosaurs,int64
+Diplomacy,int64
+Documentary,int64
+Dog,int64
+Dogs,int64
+Down,int64
+Down Shooter,int64
+Dragons,int64
+Drama,int64
+Dreams,int64
+Driving,int64
+Dungeon Crawler,int64
+Dungeon Role,int64
+Dungeons & Dragons,int64
+Dynamic Narration,int64
+Dystopian,int64
+Early Access,int64
+Economy,int64
+Education,int64
+Einzelspieler,int64
+Emotional,int64
+En spelare,int64
+Endless,int64
+Epic,int64
+Episodic,int64
+Erotic,int64
+Errungenschaften,int64
+Escape Game,int64
+Escape Room,int64
+Estadísticas,int64
+Experience,int64
+Experimental,int64
+Exploration,int64
+Explosions,int64
+FMV,int64
+FPS,int64
+Fairy Tale,int64
+Faith,int64
+Family Friendly,int64
+Fangame,int64
+Fantasy,int64
+Farming,int64
+Farming Sim,int64
+Fast,int64
+Feel Good,int64
+Female Protagonist,int64
+First,int64
+Fishing,int64
+Flight,int64
+Football,int64
+Foreign,int64
+Forest,int64
+Four players total,int64
+Free to Play,int64
+Friendly,int64
+Frogs,int64
+Full controller support,int64
+Funny,int64
+Futuristic,int64
+Gambling,int64
+Game Boy,int64
+Game Design,int64
+Game Development,int64
+Game Link Cable,int64
+Game Maker's Toolkit Jam,int64
+GameMaker,int64
+Games Workshop,int64
+Gaming,int64
+Gay,int64
+Generator,int64
+Ghosts,int64
+Giocatore singolo,int64
+God Game,int64
+Golf,int64
+Gore,int64
+Gothic,int64
+Grand Strategy,int64
+Gravity,int64
+Great Soundtrack,int64
+Grid,int64
+Group Play,int64
+Gun Customization,int64
+Hack and Slash,int64
+Hacking,int64
+Halloween,int64
+Hand,int64
+Heist,int64
+Hero Shooter,int64
+Hex Based,int64
+Hex Grid,int64
+Hidden Object,int64
+High Score,int64
+Historical,int64
+Horrible,int64
+Horror,int64
+Horses,int64
+Hunting,int64
+Idle,int64
+Illuminati,int64
+Immersive Sim,int64
+Import,int64
+In,int64
+Includes Source SDK,int64
+Includes level editor,int64
+Incluye editor de niveles,int64
+Instrument,int64
+Intentionally Awkward Controls,int64
+Interactive Fiction,int64
+Inventory Management,int64
+Investigation,int64
+Isometric,int64
+JRPG,int64
+JxJ,int64
+JxJ online,int64
+Kickstarter,int64
+Kids/Family,int64
+Koop,int64
+Kung Fu,int64
+Käufe im Spiel,int64
+LAN,int64
+LAN Co,int64
+LAN PvP,int64
+LEGO,int64
+LGBT,int64
+LGBTQ+,int64
+Lara Croft,int64
+Lemmings,int64
+Lesbian,int64
+Level Editor,int64
+Life Sim,int64
+Life Simulation,int64
+Linear,int64
+Local Co,int64
+Local Multiplayer,int64
+Local PvP,int64
+Logic,int64
+Logros de Steam,int64
+Loot,int64
+Lore,int64
+Lovecraftian,int64
+Lovecraftian Horror,int64
+Low,int64
+Ludum Dare,int64
+Ludum Dare 33,int64
+Ludum Dare 39,int64
+Ludum Dare 44,int64
+Ludum Dare 46,int64
+LÖVE,int64
+MMORPG,int64
+MOBA,int64
+Magic,int64
+Management,int64
+Manga,int64
+Mars,int64
+Martial Arts,int64
+Mass Action Strategy,int64
+Masterpiece,int64
+Match 3,int64
+Math,int64
+Mature,int64
+Meaningful Choices,int64
+Mechs,int64
+Medical Sim,int64
+Medieval,int64
+Mehrspieler,int64
+Memes,int64
+Mental Health,int64
+Metroidvania,int64
+Military,int64
+Mini Golf,int64
+Minigames,int64
+Minimalist,int64
+Mining,int64
+Mod,int64
+Moddable,int64
+Modern,int64
+Mods (require HL2),int64
+Monsters,int64
+Mountains,int64
+Mouse only,int64
+Movie,int64
+Multigiocatore,int64
+Multijogador entre plataformas,int64
+Multijugador,int64
+Multijugador multiplataforma,int64
+Multiplayer,int64
+Multiplayer online,int64
+Multiple Endings,int64
+Music,int64
+Mutliplayer,int64
+Mystery,int64
+Mystery Dungeon,int64
+Mythology,int64
+NES,int64
+NSFW,int64
+Narration,int64
+Narrative,int64
+Naval,int64
+Naval Combat,int64
+Neon,int64
+Ninja,int64
+Noir,int64
+Non violent,int64
+Nonlinear,int64
+Norse,int64
+Nudity,int64
+Nuvem Steam,int64
+Offroad,int64
+Old School,int64
+On,int64
+One player,int64
+Online,int64
+Online Co,int64
+Online PvP,int64
+Online multiplayer,int64
+Op,int64
+Open Source,int64
+Open World,int64
+Open World Survival Craft,int64
+Other,int64
+Otome,int64
+Outbreak Sim,int64
+Oyun Kumandası Desteği,int64
+Paced,int64
+Pantalla partida/compartida,int64
+Parkour,int64
+Parody,int64
+Partial Controller Support,int64
+Partita cooperativa online,int64
+Party,int64
+Party Game,int64
+Perma Death,int64
+Person,int64
+Person Perspective,int64
+Person Shooter,int64
+Philisophical,int64
+Photo Editing,int64
+Photorealistic,int64
+Physics,int64
+Pinball,int64
+Pirates,int64
+Pixel Graphics,int64
+Platform,int64
+Platform Multiplayer,int64
+Platformer.1,int64
+Playing Game,int64
+Point & Click,int64
+Political,int64
+Political Sim,int64
+Politics,int64
+Pool,int64
+Post,int64
+Practical,int64
+Precision Platformer,int64
+Procedural Generation,int64
+Programming,int64
+Psychedelic,int64
+Psychological,int64
+Puzzle.1,int64
+Puzzle Platformer,int64
+PvE,int64
+PvP,int64
+Quick,int64
+RPG.1,int64
+RPG Maker,int64
+RPGMaker,int64
+RTS,int64
+Rails Shooter,int64
+Real,int64
+Real Time Tactics,int64
+Real time strategy,int64
+Realistic,int64
+Relaxing,int64
+Remake,int64
+Remote Play Together,int64
+Remote Play on Phone,int64
+Remote Play on TV,int64
+Remote Play on Tablet,int64
+Replay Value,int64
+Resource Management,int64
+Retro,int64
+Rhythm,int64
+Rich,int64
+Robots,int64
+Rock Music,int64
+Roguelike,int64
+Roguelike Deckbuilder,int64
+Roguelite,int64
+Roguevania,int64
+Role Playing Game,int64
+Romance,int64
+Rome,int64
+Runner,int64
+Sailing,int64
+Sammelkarten,int64
+Sandbox,int64
+Satire,int64
+Schermo condiviso,int64
+Sci,int64
+Science,int64
+Score Attack,int64
+Scrolling,int64
+Sexual Content,int64
+Shadows,int64
+Shared/Split Screen Co,int64
+Shared/Split Screen PvP,int64
+Shoot 'Em Up,int64
+Short,int64
+Side,int64
+Side Scroller,int64
+Silent Protagonist,int64
+Singe,int64
+Single player only,int64
+Singleplayer,int64
+Skating,int64
+Skeletons,int64
+Sniper,int64
+Soccer,int64
+Social Deduction,int64
+Software,int64
+Software Training,int64
+Sokoban,int64
+Solo,int64
+Souls,int64
+Soundtrack,int64
+Space,int64
+Space Sim,int64
+Spectacle fighter,int64
+Spelling,int64
+Split Screen,int64
+Spooky,int64
+Star Wars,int64
+Stealth,int64
+Steam,int64
+Steam Achievements,int64
+Steam Başarımları,int64
+Steam Cloud,int64
+Steam Leaderboards,int64
+Steam Machine,int64
+Steam Trading Cards,int64
+Steam Turn Notifications,int64
+Steam Workshop,int64
+Steam 云,int64
+Steam 成就,int64
+SteamVR Collectibles,int64
+Steampunk,int64
+Story,int64
+Story Rich,int64
+Strategy RPG,int64
+Stylized,int64
+Succès Steam,int64
+Superhero,int64
+Supernatural,int64
+Superpowers,int64
+Supporto completo per i controller,int64
+Surreal,int64
+Survival,int64
+Survival Horror,int64
+Swordplay,int64
+Swords,int64
+Tactical,int64
+Tactical RPG,int64
+Tanks,int64
+Team,int64
+Teilweise Controllerunterstützung,int64
+Tek Oyunculu,int64
+Tetris,int64
+Text,int64
+Text based,int64
+Third,int64
+Third Person,int64
+Thriller,int64
+Time,int64
+Time Attack,int64
+Time Events,int64
+Time Management,int64
+Time Manipulation,int64
+Time Travel,int64
+Time with Pause,int64
+Top,int64
+Top Down Adventure,int64
+Top down shooter,int64
+Touch,int64
+Touhou,int64
+Tower Defense,int64
+TrackIR,int64
+Tracked Controller Support,int64
+Trading,int64
+Trading Card Game,int64
+Training,int64
+Trains,int64
+Transhumanism,int64
+Traps,int64
+Turn,int64
+Tutorial,int64
+Twin Stick Shooter,int64
+Twine,int64
+Two,int64
+Two Players,int64
+Typing,int64
+Um jogador,int64
+Un joueur,int64
+Un jugador,int64
+Underground,int64
+Underwater,int64
+Unforgiving,int64
+Unity,int64
+Unreal Engine,int64
+Up to four players,int64
+Up to two players simultaneously,int64
+Utilities,int64
+VR,int64
+VR Only,int64
+VR Support,int64
+Valve Anti,int64
+Vampire,int64
+Vehicular Combat,int64
+Video Production,int64
+Villain Protagonist,int64
+Violent,int64
+Virtual Console ,int64
+Visual Novel,int64
+Visualization,int64
+Voice Acting,int64
+Voice Control,int64
+Volle Controllerunterstützung,int64
+Voxel,int64
+Walking Simulator,int64
+War,int64
+Wargame,int64
+Warhammer 40K,int64
+Web Publishing,int64
+Werewolves,int64
+Western,int64
+Word Game,int64
+World War I,int64
+World War II,int64
+Wrestling,int64
+Yuri,int64
+Zombies,int64
+a,int64
+absurd,int64
+acheron,int64
+achievements,int64
+action,int64
+active,int64
+activision,int64
+ad&d,int64
+add,int64
+adorable,int64
+adult,int64
+adults,int64
+adventure,int64
+adventurer,int64
+aesthetic,int64
+afrique,int64
+agent,int64
+ags,int64
+ai,int64
+ai conversation,int64
+alchemy,int64
+alice,int64
+alien,int64
+aliens,int64
+alpha,int64
+alt,int64
+amanita,int64
+ambient,int64
+america,int64
+american,int64
+amiga,int64
+ancient,int64
+and,int64
+android,int64
+androids,int64
+animal,int64
+animated,int64
+animation,int64
+anime,int64
+anti,int64
+anuman,int64
+anxiety,int64
+apocalypse,int64
+apocalyptic,int64
+apocalyptical,int64
+app,int64
+application,int64
+arcade,int64
+architecture,int64
+arena,int64
+armor,int64
+army,int64
+arpg,int64
+art,int64
+artgame,int64
+artificial,int64
+artistic,int64
+artsy,int64
+ascii,int64
+asteroid,int64
+astrobiology,int64
+astrology,int64
+astronaut,int64
+async,int64
+atari,int64
+atmosphere,int64
+attack,int64
+atv,int64
+auriona,int64
+automap,int64
+autumn,int64
+avoid,int64
+awesome,int64
+axe,int64
+baby,int64
+background,int64
+backrooms,int64
+backtobasicsgaming,int64
+balance,int64
+ball,int64
+balls,int64
+banana,int64
+bank,int64
+bar,int64
+baseball,int64
+based,int64
+based Platformer,int64
+basket,int64
+bat,int64
+batim,int64
+battle,int64
+battler,int64
+battles,int64
+beach,int64
+bear,int64
+beat them all,int64
+bee,int64
+beer,int64
+bending,int64
+bendy,int64
+best,int64
+beta,int64
+big,int64
+bike,int64
+biking,int64
+billiard,int64
+binaural,int64
+biology,int64
+biomes,int64
+bird,int64
+birds,int64
+bishoujo,int64
+bit,int64
+black,int64
+blob,int64
+block,int64
+blocks,int64
+bloons,int64
+bloonstd,int64
+blue,int64
+bmx,int64
+board,int64
+boat,int64
+body physics,int64
+bomb,int64
+bomberman,int64
+bombs,int64
+bond,int64
+boo,int64
+book,int64
+boss,int64
+bounce,int64
+bow,int64
+box,int64
+boxing,int64
+brain,int64
+brawl,int64
+brawler,int64
+brawling,int64
+brick,int64
+brutal,int64
+btd6,int64
+bubble,int64
+buddy,int64
+bug,int64
+bugs,int64
+build,int64
+builder,int64
+building,int64
+bullet,int64
+bullets,int64
+bundle,int64
+bunny,int64
+bus,int64
+business,int64
+button,int64
+c,int64
+cafe,int64
+cage,int64
+call,int64
+calm,int64
+camels,int64
+camera,int64
+campaign,int64
+cancelled,int64
+candy,int64
+car,int64
+card,int64
+cardboard,int64
+cards,int64
+cargo,int64
+cars,int64
+cartoon,int64
+cartoonish,int64
+casino,int64
+casting,int64
+castle,int64
+cat,int64
+catch,int64
+category,int64
+caterpillar,int64
+cats,int64
+cave,int64
+caveman,int64
+ccg,int64
+celeste,int64
+celestial,int64
+cellshading,int64
+cemetery,int64
+cerebral,int64
+cga,int64
+chainsaw,int64
+challenge,int64
+challenging,int64
+championship,int64
+change,int64
+chaos,int64
+character,int64
+characters,int64
+charity,int64
+charming,int64
+chase,int64
+child,int64
+children,int64
+chill,int64
+chiptune,int64
+choice,int64
+choices,int64
+choices matter ,int64
+cia,int64
+cigarettes,int64
+cinema,int64
+city,int64
+civil,int64
+classic,int64
+claymation,int64
+cleaning,int64
+click,int64
+climb,int64
+clock,int64
+clone,int64
+cloud saves,int64
+clouds,int64
+clown,int64
+clowns,int64
+clues,int64
+co,int64
+code,int64
+coins,int64
+collect,int64
+collectathon,int64
+collectible,int64
+collection,int64
+color,int64
+colors,int64
+colour,int64
+columbia,int64
+combat,int64
+combo,int64
+combos,int64
+come,int64
+comic,int64
+comics,int64
+commando,int64
+communication,int64
+community,int64
+competition,int64
+complex,int64
+condition zero,int64
+connect,int64
+console,int64
+construct,int64
+construction,int64
+controller,int64
+controller support,int64
+controversial,int64
+cookie,int64
+cooking,int64
+coop,int64
+cooperative,int64
+cooperativo,int64
+core,int64
+corgi,int64
+coronavirus,int64
+corporation,int64
+cosmos,int64
+couch,int64
+counter,int64
+cover,int64
+crab,int64
+craft,int64
+crash,int64
+crazy,int64
+creation,int64
+creative,int64
+creepy,int64
+criminal,int64
+criminals,int64
+crossover,int64
+crowds,int64
+cs,int64
+cube,int64
+cubes,int64
+cup,int64
+customizable,int64
+customization,int64
+cyber,int64
+czech,int64
+d&d,int64
+d.i.p.r.i.p.,int64
+dad,int64
+dagon,int64
+dance,int64
+dancing,int64
+danmaku,int64
+dare,int64
+dark,int64
+dark sci,int64
+darkness,int64
+dash,int64
+david,int64
+dawn,int64
+daylight,int64
+dc,int64
+dead,int64
+death,int64
+deathmatch,int64
+deckbuilding,int64
+deep,int64
+defender,int64
+defense,int64
+delivery,int64
+delta,int64
+delta force,int64
+demo,int64
+democracy,int64
+demon,int64
+depression,int64
+derby,int64
+desert,int64
+desktop,int64
+destroy,int64
+dev,int64
+developer,int64
+development,int64
+devil,int64
+dialogue,int64
+dice,int64
+dificult,int64
+dig,int64
+digimon,int64
+digital,int64
+dimension,int64
+dimensions,int64
+dinn,int64
+diprip,int64
+dirt,int64
+disco,int64
+disney,int64
+disturbing,int64
+dlc,int64
+dnd,int64
+doctor,int64
+dodge,int64
+dogfight,int64
+doom,int64
+dow,int64
+dragon,int64
+dragons,int64
+dramatic,int64
+drawing,int64
+drawn,int64
+dressed,int64
+drift,int64
+drive,int64
+driven,int64
+drivers,int64
+driving,int64
+drone,int64
+drones,int64
+drugs,int64
+drums,int64
+duel,int64
+dungeon,int64
+dungeons,int64
+duo,int64
+dutch,int64
+duty,int64
+dwarves,int64
+e,int64
+ea play,int64
+earthbound,int64
+ecology,int64
+economic,int64
+editor,int64
+egg,int64
+egypt,int64
+eighties,int64
+elderly,int64
+electro,int64
+electronic,int64
+electronics,int64
+elements,int64
+elephant,int64
+elephants,int64
+elves,int64
+elvis,int64
+emerald,int64
+ended,int64
+enemies,int64
+enemy,int64
+engine,int64
+english,int64
+enroth,int64
+entertainment,int64
+enviroment,int64
+environment,int64
+enzo,int64
+episode,int64
+erina,int64
+eroge,int64
+escape,int64
+espionage,int64
+esports,int64
+ethnic,int64
+euro,int64
+european,int64
+events,int64
+evil,int64
+evolution,int64
+exclusive,int64
+exclusives,int64
+expansion,int64
+explore,int64
+extreme,int64
+f2p,int64
+factions,int64
+factory,int64
+fall,int64
+family,int64
+fantasy,int64
+farm,int64
+fashion,int64
+fast,int64
+fear,int64
+festival,int64
+fi,int64
+fiction,int64
+fifa,int64
+fight,int64
+fighter,int64
+fighting,int64
+figment,int64
+film,int64
+fire,int64
+fireface,int64
+first,int64
+first person mod,int64
+first person shooter,int64
+fish,int64
+fitness,int64
+fixed camera,int64
+flamethrower,int64
+flemish,int64
+flight,int64
+flora,int64
+flow,int64
+flower,int64
+flowers,int64
+fly,int64
+flying,int64
+fna,int64
+folk,int64
+food,int64
+football,int64
+for,int64
+force,int64
+forces,int64
+forgotten,int64
+forgotten realms,int64
+formula,int64
+foundation,int64
+four,int64
+fox,int64
+francisco,int64
+free,int64
+freeware,int64
+friendly,int64
+friends,int64
+friendship,int64
+fruit,int64
+ftl,int64
+fumblecore,int64
+fun,int64
+funeral,int64
+furry,int64
+future,int64
+futurism,int64
+futuristic,int64
+galaxy,int64
+galgame,int64
+gallery,int64
+game,int64
+gamedev,int64
+gamepad,int64
+games,int64
+gaming,int64
+gangs,int64
+garden,int64
+gears,int64
+generation,int64
+generator,int64
+genesis,int64
+genetics,int64
+geometry,int64
+germany,int64
+gfwl,int64
+ghost,int64
+giants,int64
+girl,int64
+girls,int64
+glass,int64
+go,int64
+goats,int64
+goblins,int64
+god,int64
+gold,int64
+golden,int64
+gpt,int64
+grandmother,int64
+graphics,int64
+grappling,int64
+graveyard,int64
+great,int64
+greece,int64
+greek,int64
+grenade,int64
+greyfox,int64
+grid,int64
+grim,int64
+groups,int64
+grow,int64
+gta,int64
+guitar,int64
+gun,int64
+guns,int64
+gxg,int64
+gyrocopters,int64
+h1z1,int64
+hack,int64
+hardcore,int64
+haunt,int64
+hd,int64
+health,int64
+helicopter,int64
+helicopters,int64
+hell,int64
+hentai,int64
+hercule,int64
+hero,int64
+hidden,int64
+hiding,int64
+hilarious,int64
+hip,int64
+historical,int64
+historical events,int64
+history,int64
+hoard,int64
+hockey,int64
+hole,int64
+holiday,int64
+holodeck,int64
+holy,int64
+hook,int64
+hop,int64
+horde,int64
+horror,int64
+horse,int64
+hospital,int64
+hot,int64
+hoverbike,int64
+html,int64
+huge,int64
+huge sprites,int64
+humor,int64
+humour,int64
+hunt,int64
+hylics,int64
+ice,int64
+idle,int64
+idler,int64
+igf,int64
+illustrative,int64
+immersive,int64
+in,int64
+in development,int64
+india,int64
+indie,int64
+indiecade,int64
+industry,int64
+infinite,int64
+infogrames,int64
+ink,int64
+inspired,int64
+intelligence,int64
+intense,int64
+interactive,int64
+interactive movie,int64
+invaders,int64
+invasion,int64
+invincibility,int64
+invisibility,int64
+ios,int64
+iran,int64
+irrlicht,int64
+island,int64
+islands,int64
+isomentric,int64
+italy,int64
+ivan,int64
+j,int64
+jam,int64
+james,int64
+james bond,int64
+janky,int64
+japan,int64
+japanese,int64
+jazz,int64
+jet,int64
+jetpack,int64
+job,int64
+journey,int64
+jousting,int64
+joy,int64
+jump,int64
+jumping,int64
+jungle,int64
+kane,int64
+karaihb,int64
+karaoke,int64
+kart,int64
+karting,int64
+kex,int64
+kex engine,int64
+keyboard,int64
+keys,int64
+kid,int64
+kids,int64
+kill,int64
+kinect,int64
+king,int64
+kingdom,int64
+kiroo,int64
+kitchen,int64
+knight,int64
+knights,int64
+lab,int64
+labyrinth,int64
+lan,int64
+lan party,int64
+large,int64
+large sprites,int64
+laser,int64
+lasers,int64
+latin,int64
+launcher,int64
+leaderboard,int64
+leaderboards,int64
+learn,int64
+levels,int64
+licensed,int64
+life,int64
+lifestyle,int64
+light,int64
+lightsaber,int64
+like,int64
+liminal,int64
+lindroth,int64
+lisbon,int64
+live,int64
+looking,int64
+lootboxes,int64
+looter,int64
+looter shooter,int64
+loss,int64
+lotr,int64
+love,int64
+lovecraft,int64
+lowpoly,int64
+ludum,int64
+lynch,int64
+mac,int64
+machine,int64
+mad,int64
+madmen,int64
+madness,int64
+mafia,int64
+magic,int64
+mahjong,int64
+makes,int64
+man,int64
+management,int64
+manipulation,int64
+mansion,int64
+map,int64
+marble,int64
+marines,int64
+mario,int64
+market,int64
+marriage,int64
+marvel,int64
+mashup,int64
+mason,int64
+masturbation,int64
+match,int64
+match3,int64
+matching,int64
+matchmaking,int64
+matt,int64
+matter,int64
+mayhem,int64
+maze,int64
+meaningful,int64
+meat,int64
+medieval,int64
+meditation,int64
+melee,int64
+meme,int64
+memoir,int64
+memories,int64
+memory,int64
+mental,int64
+mercenaries,int64
+mercs,int64
+meta,int64
+metal,int64
+meteor,int64
+mexican,int64
+mexico,int64
+microphone,int64
+microscopic,int64
+microtransactions,int64
+microtranzations,int64
+might,int64
+might and magic,int64
+milk,int64
+mind,int64
+mine,int64
+minecraft,int64
+minesweeper,int64
+mini,int64
+miniboss,int64
+missions,int64
+misterio,int64
+mistery,int64
+mmo,int64
+mobile,int64
+modding,int64
+mode,int64
+mods,int64
+moe,int64
+money,int64
+monkey,int64
+monochrome,int64
+monster,int64
+monsters,int64
+mood,int64
+moon,int64
+moose,int64
+motocross,int64
+motorbike,int64
+motorcycles,int64
+moves,int64
+movie,int64
+movies,int64
+ms,int64
+multijogador,int64
+multiple,int64
+murder,int64
+museum,int64
+music,int64
+mustache,int64
+mutants,int64
+my,int64
+mythology,int64
+n,int64
+nailgun,int64
+nato,int64
+nature,int64
+new,int64
+new york,int64
+ngj16,int64
+night,int64
+nightmare,int64
+nintendo,int64
+nitro,int64
+noir,int64
+noire,int64
+nomoresweden,int64
+non,int64
+norway,int64
+nostalgia,int64
+numbers,int64
+object,int64
+obra,int64
+obstacles,int64
+occult,int64
+ocean,int64
+octodad,int64
+octopus,int64
+odd,int64
+of,int64
+office,int64
+offline,int64
+ogres,int64
+oil,int64
+old,int64
+oldman,int64
+on,int64
+one,int64
+online,int64
+only,int64
+op,int64
+op Campaign,int64
+op locale a schermo condiviso,int64
+op multiplayer,int64
+open,int64
+opensludge,int64
+oporto,int64
+ops,int64
+orange,int64
+orange box,int64
+origin,int64
+overhead,int64
+overlay,int64
+pacific,int64
+pacific ocean,int64
+pack,int64
+pacman,int64
+paint,int64
+painting,int64
+pandas,int64
+pants,int64
+paper,int64
+paranormal,int64
+parcour,int64
+parents,int64
+party,int64
+pause,int64
+pc,int64
+peaceful,int64
+pelicans,int64
+penguin,int64
+people,int64
+person,int64
+person shooter,int64
+perspective,int64
+pes,int64
+pet,int64
+pets,int64
+pewpew,int64
+pheenix93,int64
+philosophical,int64
+phone,int64
+photography,int64
+photorealism,int64
+physics,int64
+pig,int64
+pit,int64
+pixel,int64
+pixels,int64
+plague,int64
+plane,int64
+planet,int64
+planets,int64
+plant,int64
+plants,int64
+platform,int64
+platformer,int64
+platformers,int64
+play,int64
+player,int64
+player alternating,int64
+playing,int64
+playstation,int64
+playstation4,int64
+pleasure,int64
+plot,int64
+plug,int64
+plus,int64
+pnc,int64
+poetry,int64
+point,int64
+poirot,int64
+pokemon,int64
+police,int64
+political,int64
+politics,int64
+poly,int64
+porn,int64
+portal,int64
+portals,int64
+portugal,int64
+positech,int64
+positive,int64
+post,int64
+potato,int64
+potatoes,int64
+potions,int64
+power,int64
+powers,int64
+predator,int64
+prehistoric,int64
+prequel,int64
+prestationer,int64
+prettygirls,int64
+princess,int64
+prison,int64
+pro,int64
+problem,int64
+procedural,int64
+program,int64
+prototype,int64
+psx,int64
+psychological,int64
+psycholoical,int64
+punk,int64
+puzzle,int64
+puzzler,int64
+puzzles,int64
+python,int64
+qte,int64
+quad,int64
+quake,int64
+queer,int64
+quest,int64
+quick,int64
+rabbit,int64
+race,int64
+racer,int64
+racing,int64
+racoons,int64
+radio,int64
+ragdoll,int64
+ragdolls,int64
+rage,int64
+raid,int64
+rain,int64
+rainbow,int64
+rally,int64
+random,int64
+rangers,int64
+ranked,int64
+rap,int64
+rappers,int64
+rapping,int64
+rapture,int64
+ray,int64
+reaction,int64
+read,int64
+reading,int64
+real,int64
+realism,int64
+reality,int64
+realms,int64
+reaper,int64
+red,int64
+relationship,int64
+relaxation,int64
+remaster,int64
+remastered,int64
+remember,int64
+renpy,int64
+rescue,int64
+retro,int64
+retrofuturism,int64
+retrowave,int64
+revolution,int64
+rhino,int64
+rhythm,int64
+rhytm,int64
+rich,int64
+riddle,int64
+riding,int64
+rock,int64
+rocket,int64
+rockets,int64
+rogue,int64
+role,int64
+roleplay,int64
+roleplayinggame,int64
+rollercoaster,int64
+rolling,int64
+rom,int64
+romantic,int64
+room,int64
+royal,int64
+royal rumble,int64
+royale,int64
+rpg,int64
+rumble,int64
+run,int64
+rush,int64
+russia,int64
+russian,int64
+rust,int64
+sacrifice,int64
+sadistic,int64
+safe,int64
+samlarkort,int64
+samurai,int64
+san,int64
+santa,int64
+sarcastic,int64
+scare,int64
+schein,int64
+school,int64
+sci,int64
+scientist,int64
+scientists,int64
+scifi,int64
+scratch,int64
+sea,int64
+search,int64
+seat,int64
+second,int64
+secret,int64
+secrets,int64
+sega,int64
+sequel,int64
+session,int64
+sex,int64
+sexy,int64
+shake,int64
+shapes,int64
+shark,int64
+sharks,int64
+sharply,int64
+shenanijam,int64
+shine,int64
+ship,int64
+ships,int64
+shoot,int64
+shooter,int64
+shooting,int64
+shop,int64
+shotgun,int64
+show,int64
+side,int64
+sim,int64
+simple,int64
+simulation,int64
+simulator,int64
+simultaneous,int64
+singing,int64
+sintek,int64
+sitting,int64
+size,int64
+skate,int64
+skateboard,int64
+skateboarding,int64
+skiing,int64
+skill,int64
+sky,int64
+slash,int64
+slasher,int64
+sleep,int64
+slick,int64
+slide,int64
+slow,int64
+sludge,int64
+small,int64
+smash,int64
+smash 64,int64
+smoking,int64
+snake,int64
+snooker,int64
+snow,int64
+snowboard,int64
+snowboarding,int64
+soft,int64
+software,int64
+soldier,int64
+solitaire,int64
+solve,int64
+solving,int64
+song,int64
+sonic,int64
+soulsborne,int64
+sound,int64
+source,int64
+south,int64
+south america,int64
+soviet,int64
+space,int64
+spaceship,int64
+spaceships,int64
+special,int64
+speed,int64
+speedrun,int64
+spell,int64
+spells,int64
+spider,int64
+spirit,int64
+sport,int64
+sports,int64
+sprint,int64
+spriter,int64
+sprites,int64
+spy,int64
+squad,int64
+square,int64
+stack,int64
+statement ,int64
+stats,int64
+steam,int64
+steel,int64
+steganography,int64
+stillness,int64
+stone cold steve austin,int64
+stop,int64
+story,int64
+strange,int64
+strategy,int64
+street,int64
+street racing,int64
+streets,int64
+stress,int64
+strke,int64
+student,int64
+studio,int64
+study,int64
+style,int64
+submarine,int64
+summer,int64
+sun,int64
+sunset,int64
+super,int64
+support,int64
+supported,int64
+survi,int64
+survival,int64
+survive,int64
+suspense,int64
+swinging,int64
+switch,int64
+sword,int64
+synctomusic,int64
+synergy,int64
+system,int64
+tablet,int64
+tabletop,int64
+tactics,int64
+tank,int64
+tank controls,int64
+tap,int64
+tape,int64
+tarawa atoll,int64
+td,int64
+tech,int64
+technology,int64
+teen,int64
+tennis,int64
+terraincognita,int64
+terror,int64
+terrorists,int64
+text,int64
+the,int64
+theater,int64
+theatre,int64
+three,int64
+tigers,int64
+tile,int64
+tiles,int64
+time,int64
+timer,int64
+tiny,int64
+to,int64
+tomorrow,int64
+tool,int64
+top,int64
+tournament,int64
+tower,int64
+towerfall,int64
+town,int64
+toy,int64
+toys,int64
+tracks,int64
+trading,int64
+traditional,int64
+tragedy,int64
+trailer,int64
+train,int64
+transportation,int64
+trash,int64
+travel,int64
+traveling,int64
+treasure,int64
+tree,int64
+trees,int64
+trivia,int64
+tron,int64
+trucks,int64
+true exclusive,int64
+tunnel,int64
+tv,int64
+twitch,int64
+two,int64
+tycoon,int64
+typing,int64
+ufc,int64
+underpants,int64
+union,int64
+unique,int64
+universe,int64
+unreal,int64
+updates,int64
+upgrades,int64
+ups,int64
+urban,int64
+us,int64
+us marines,int64
+ussr,int64
+vaporwave,int64
+vector,int64
+vehicle,int64
+versus,int64
+view,int64
+vigilante,int64
+viking,int64
+vikings,int64
+village,int64
+violence,int64
+virus,int64
+visceral,int64
+vive,int64
+vivid,int64
+vn,int64
+vr mod,int64
+w10 exclusive,int64
+walking,int64
+wallpaper,int64
+war,int64
+warfare,int64
+warm up,int64
+warships,int64
+wasteland,int64
+water,int64
+watercolor,int64
+wave,int64
+waves,int64
+way,int64
+weapon,int64
+weapons,int64
+weather,int64
+weird,int64
+werewolf,int64
+white,int64
+wholesome,int64
+wicked,int64
+wildlife,int64
+wind,int64
+windows,int64
+wine,int64
+wingsuit,int64
+winter,int64
+witch,int64
+with,int64
+wizard,int64
+wizards,int64
+wolf,int64
+wolly,int64
+wolves,int64
+woman,int64
+wonderland,int64
+woo,int64
+word,int64
+words,int64
+work,int64
+world,int64
+world war 2,int64
+worm,int64
+worms,int64
+worst,int64
+wraiths,int64
+wrc,int64
+wrestle,int64
+wrestling,int64
+ww1,int64
+ww2,int64
+wwe,int64
+wwf,int64
+wwii,int64
+x,int64
+xeen,int64
+xenomorph,int64
+xna,int64
+yono,int64
+your,int64
+youtube,int64
+zach,int64
+zachlike,int64
+zachtronics,int64
+zelda,int64
+zen,int64
+zoo,int64
+Автобаттлер,int64
+Автоматика,int64
+Арена,int64
+Викторина,int64
+Дети,int64
+Достижения Steam,int64
+Катание,int64
+Кооператив (по сети),int64
+Котики,int64
+Кулинария,int64
+Лутер,int64
+Постапокалипсис,int64
+Протагонистка,int64
+Ремейк,int64
+Романтика,int64
+Скейтбординг,int64
+Сноубординг,int64
+Флот,int64
+Хентай,int64
+игра,int64
+платформер,int64
+файтер,int64
+файтинг,int64
+шутер,int64
+单人,int64
+部分支持控制器,int64
+3DO,int64
+Android,int64
+Apple II,int64
+Atari 2600,int64
+Atari 5200,int64
+Atari 7800,int64
+Atari 8,int64
+Atari Lynx,int64
+Atari ST,int64
+Atari XEGS,int64
+Classic Macintosh,int64
+Commodore / Amiga,int64
+Dreamcast,int64
+Game Boy.1,int64
+Game Boy Advance,int64
+Game Boy Color,int64
+Game Gear,int64
+GameCube,int64
+Genesis,int64
+Jaguar,int64
+Linux,int64
+NES.1,int64
+Neo Geo,int64
+Nintendo 3DS,int64
+Nintendo 64,int64
+Nintendo DS,int64
+Nintendo DSi,int64
+Nintendo Switch,int64
+PC,int64
+PS Vita,int64
+PSP,int64
+PlayStation,int64
+PlayStation 2,int64
+PlayStation 3,int64
+PlayStation 4,int64
+PlayStation 5,int64
+SEGA 32X,int64
+SEGA CD,int64
+SEGA Master System,int64
+SEGA Saturn,int64
+SNES,int64
+Web,int64
+Wii,int64
+Wii U,int64
+Xbox,int64
+Xbox 360,int64
+Xbox One,int64
+Xbox Series S/X,int64
+bit.1,int64
+iOS,int64
+macOS,int64

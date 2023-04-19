@@ -1,7 +1,4 @@
-,0
-id,float64
-name,object
-released,object
+released,float64
 rating,float64
 playtime,float64
 Action,int64
@@ -68,12 +65,12 @@ Strategy,int64
 Abstract,int64
 Achievement di Steam,int64
 Acquisti dall'applicazione,int64
-Action.1,int64
+Action,int64
 Action RPG,int64
 Action RTS,int64
 Action Roguelike,int64
 Addictive,int64
-Adventure.1,int64
+Adventure,int64
 Agriculture,int64
 Aliens,int64
 Alternate History,int64
@@ -434,7 +431,7 @@ Pirates,int64
 Pixel Graphics,int64
 Platform,int64
 Platform Multiplayer,int64
-Platformer.1,int64
+Platformer,int64
 Playing Game,int64
 Point & Click,int64
 Political,int64
@@ -448,12 +445,12 @@ Procedural Generation,int64
 Programming,int64
 Psychedelic,int64
 Psychological,int64
-Puzzle.1,int64
+Puzzle,int64
 Puzzle Platformer,int64
 PvE,int64
 PvP,int64
 Quick,int64
-RPG.1,int64
+RPG,int64
 RPG Maker,int64
 RPGMaker,int64
 RTS,int64
@@ -1955,7 +1952,7 @@ Atari XEGS,int64
 Classic Macintosh,int64
 Commodore / Amiga,int64
 Dreamcast,int64
-Game Boy.1,int64
+Game Boy,int64
 Game Boy Advance,int64
 Game Boy Color,int64
 Game Gear,int64
@@ -1963,7 +1960,7 @@ GameCube,int64
 Genesis,int64
 Jaguar,int64
 Linux,int64
-NES.1,int64
+NES,int64
 Neo Geo,int64
 Nintendo 3DS,int64
 Nintendo 64,int64
@@ -1990,6 +1987,9 @@ Xbox,int64
 Xbox 360,int64
 Xbox One,int64
 Xbox Series S/X,int64
-bit.1,int64
+bit,int64
 iOS,int64
 macOS,int64
+series,object
+name,object
+id,float64

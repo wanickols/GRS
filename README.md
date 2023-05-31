@@ -2,7 +2,7 @@
 
 ## Description
 
-GRS is a project that aims to provide game recommendations based on item-to-item similarity using categorical data. It is built for an AI class using Python notebooks and Anaconda. It uses various libraries and techniques such as pandas, numpy, TRIMAP, WPCA, sklearn, scipy, dateutil, Thread, Queue, Requests, csv, time, collaborative filtering, and neural networks. The project is still in progress and may have future updates and improvements.
+GRS is a project that aims to provide game recommendations based on item-to-item similarity using categorical data. It is built for an AI class using Python notebooks and Anaconda. It uses various libraries and techniques such as pandas, numpy, TRIMAP, WPCA, sklearn, scipy, dateutil, Thread, Queue, Requests, csv, time, collaborative filtering, and neural networks. The project is now on hiatus from me, and won't be recieving regular updates. 
 
 ## Table of Contents
 
